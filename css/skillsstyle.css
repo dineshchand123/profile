@@ -1,0 +1,34 @@
+.left-column{
+    margin-top: -160px;
+}
+.social-icons{
+    margin-top:-25px;
+    margin-left:400px;
+}
+.skills{
+    display:flex;
+
+}
+.box2{
+    background-color: lightgrey;
+    width:40px;
+    border: 5px solid green;
+    padding:50px;
+    margin:5px;
+    height:100px;
+}
+.skills{
+    margin-left:-50px;
+    margin-top: -15px;
+    
+}
+hr{
+    position: relative;
+    left:-200px;
+    top: 40px;
+    background-color:#fb7381;
+    width:100%;
+    }
+.box2 h4{
+    margin-left:-15px;
+}
